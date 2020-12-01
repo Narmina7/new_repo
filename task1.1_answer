@@ -12,3 +12,8 @@ git status
 создаем .gitignore
 вписываем в него файл task1.1
 git status
+
+любая строка в файл fileA
+git diff
+rm fileB
+добавить команды в task1.1_answer
