@@ -25,7 +25,20 @@ rm fileB
 добавить команды в task1.1_answer
 
 
+
 Просмотри графический лог. Удали ветку feature1 (в том числе из центрального репозитория).
 git log --graph --oneline
 git branch -d feature1
 git push origin --delete feature1
+
+Строки новенькие git checkout -b feature1
+строка в fileB
+строки в task1.1_answer
+git add -A
+git commit -m ‘название коммита’
+git push
+
+
+Новые строки в файле 
+
+
