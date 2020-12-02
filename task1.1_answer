@@ -12,3 +12,7 @@ git status
 создаем .gitignore
 вписываем в него файл task1.1
 git status
+touch fileA
+touch fileB
+любая строка в файл fileA
+любая строка в файл fileВ
